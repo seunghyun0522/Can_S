@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/drawable/rectangle_1.xml" value="0.137" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/drawable/rectangle_2.xml" value="0.137" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/drawable/rectangle_3.xml" value="0.137" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_main2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_ranking.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_signin.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/activity_title.xml" value="0.22" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/layout/title_activity.xml" value="0.22" />
+        <entry key="..\:/Users/LG/AndroidStudioProjects/KakaoMap_personal/app/src/main/res/xml/network_security_config.xml" value="0.16770833333333332" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_manage.xml" value="0.25364583333333335" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_management.xml" value="0.4283201407211961" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_management2.xml" value="0.25364583333333335" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_ranking.xml" value="0.536" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_ranking2.xml" value="0.264" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_signup.xml" value="0.25364583333333335" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/activity_title.xml" value="0.264" />
+        <entry key="..\:/android_Pr/can_ranking/app/src/main/res/layout/user.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
